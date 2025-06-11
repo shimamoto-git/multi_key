@@ -1,0 +1,3 @@
+/home/user/OpenFHE_code/multi_key/build/CMakeFiles/multi_key_bfv.dir
+/home/user/OpenFHE_code/multi_key/build/CMakeFiles/edit_cache.dir
+/home/user/OpenFHE_code/multi_key/build/CMakeFiles/rebuild_cache.dir
